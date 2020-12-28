@@ -1,0 +1,9 @@
+https://www.nature.com/articles/s41597-019-0247-7 - nature folder
+https://github.com/rodmoioliveira/football-graphs
+https://github.com/jokecamp/FootballData
+
+metrica data
+https://github.com/metrica-sports/sample-data.git
+Statsbomb open data
+https://github.com/statsbomb/open-data
+

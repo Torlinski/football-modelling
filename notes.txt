@@ -1,0 +1,16 @@
+Course
+https://uppsala.instructure.com/courses/28112/pages
+https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython
+
+Football data providers:
+statsbomb, wyscout, opta
+
+Lecture 2.2
+    For shots:
+        Linear regression
+    For goals:
+        Poisson regression
+Lecture 2.3
+    Pass Probability
+    Pass Impact
+    Pitch Control
